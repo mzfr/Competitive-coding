@@ -15,3 +15,7 @@ if `concat(arr[i], arr[i+1]) < concat(arr[i+1], arr[i])`. This means say if the 
 `55566 < 56655`, if yes then we swap their value in the array.
 
 This is done with all the elements. The time complexity in this case will be `O(n^2)` and space complexity would be `O(1)`.
+
+***
+
+This might now be the best solution because of that `while bigloop` and I think it might be possible to do this with recursion.
