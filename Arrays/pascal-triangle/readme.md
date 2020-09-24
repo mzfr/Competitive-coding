@@ -25,6 +25,7 @@ This is basically using the polynomial series formula.
 
 ```python
 for line <= n:
+    c = 1
     for col <= line:
         print(c)
         c = c*(line-col)//col
