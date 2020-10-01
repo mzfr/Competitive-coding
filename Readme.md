@@ -25,3 +25,7 @@ In the final year of my college I have to focus on these competitive programming
     - [Merge-two-sorted-list](LinkedList/Merge-two-sorted-list)
     - [Remove-duplicates](LinkedList/Remove-duplicates)
     - [Reverse-doubly-linked-list](LinkedList/Reverse-doubly-linked-list)
+
+* [Strings](Strings/)
+
+* [Trees](Trees/)
