@@ -46,5 +46,7 @@ In the final year of my college I have to focus on these competitive programming
     - [Reverse-doubly-linked-list](LinkedList/Reverse-doubly-linked-list)
 
 * [Strings](Strings/)
+    - [Reverse string word by word](Strings/reverse-string-word-by-word)
 
 * [Trees](Trees/)
+    - [Symmetric Tree](Trees/symmetric-tree)
