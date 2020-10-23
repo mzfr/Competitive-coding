@@ -17,7 +17,7 @@ def merge(left: list, right: list):
 
 def merge_sort(arr: list):
 
-    if len(arr) < 1:
+    if len(arr) <= 1:
         return arr
 
     mid = len(arr) // 2
@@ -29,5 +29,5 @@ def merge_sort(arr: list):
 
 
 if __name__ == "__main__":
-    arr = []
-    merge_sort(arr)
+    arr = [12, 34, 1, 4, 56, 78]
+    print(merge_sort(arr))
